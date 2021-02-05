@@ -1,0 +1,7 @@
+C:\Users\foure\OneDrive\Desktop\BIT term 2\Programming 2\Programming 2 new\Unit 4\ADEV2005Unit4\Unit4Exercuses\bin\Debug\Unit4Exercuses.exe.config
+C:\Users\foure\OneDrive\Desktop\BIT term 2\Programming 2\Programming 2 new\Unit 4\ADEV2005Unit4\Unit4Exercuses\bin\Debug\Unit4Exercuses.exe
+C:\Users\foure\OneDrive\Desktop\BIT term 2\Programming 2\Programming 2 new\Unit 4\ADEV2005Unit4\Unit4Exercuses\bin\Debug\Unit4Exercuses.pdb
+C:\Users\foure\OneDrive\Desktop\BIT term 2\Programming 2\Programming 2 new\Unit 4\ADEV2005Unit4\Unit4Exercuses\obj\Debug\Unit4Exercuses.csprojAssemblyReference.cache
+C:\Users\foure\OneDrive\Desktop\BIT term 2\Programming 2\Programming 2 new\Unit 4\ADEV2005Unit4\Unit4Exercuses\obj\Debug\Unit4Exercuses.csproj.CoreCompileInputs.cache
+C:\Users\foure\OneDrive\Desktop\BIT term 2\Programming 2\Programming 2 new\Unit 4\ADEV2005Unit4\Unit4Exercuses\obj\Debug\Unit4Exercuses.exe
+C:\Users\foure\OneDrive\Desktop\BIT term 2\Programming 2\Programming 2 new\Unit 4\ADEV2005Unit4\Unit4Exercuses\obj\Debug\Unit4Exercuses.pdb

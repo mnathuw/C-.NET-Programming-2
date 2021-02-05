@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ADEVPayroll</name>
+    </assembly>
+    <members>
+        <member name="T:ADEVPayroll.HourlyEmployee">
+            <summary>
+            Represents an employee that is paid hourly.
+            </summary>
+        </member>
+        <member name="M:ADEVPayroll.HourlyEmployee.#ctor(System.String,System.String,System.Decimal,System.Decimal)">
+            <summary>
+            Initializes and instance of HourlyEmployee with an id, name, hours worked and rate of pay.
+            </summary>
+            <param name="employeeID">The HourlyEmployee's id.</param>
+            <param name="name">The HourlyEmployee's name.</param>
+            <param name="hoursWorked">The number of hours the HourlyEmployee worked.</param>
+            <param name="rateOfPay">The amout of money earned by the HourlyEmployee per hour.</param>
+            <exception cref="T:System.ArgumentException">When employeeID does not contain any characters.</exception>
+            <exception cref="T:System.ArgumentException">When name does not contain any characters.</exception>
+            <exception cref="T:System.ArgumentOutOfRangeException">When hoursWorked is less than zero.</exception>
+            <exception cref="T:System.ArgumentOutOfRangeException">When rateOfPay is less than zero.</exception>
+        </member>
+        <member name="M:ADEVPayroll.HourlyEmployee.GetPay(System.Boolean)">
+            <summary>
+            Returns the amount the HourlyEmployee is paid.
+            An HourlyEmployee is paid their rate of pay per hour.  If an HourlyEmployee exceeds 40 hours, the employee is paid overtime
+            at a rate of 1.5 times their normal rate of pay, unless it is specified that no overtime is paid.
+            </summary>
+            <param name="isPaidOvertime">Specifies whether the HourlyEmployee is paid overtime.</param>
+            <returns>The amount the HourlyEmployee is paid.</returns>
+        </member>
+        <member name="P:ADEVPayroll.HourlyEmployee.EmployeeID">
+            <summary>
+            Gets the HourlyEmployee's ID.
+            </summary>
+        </member>
+        <member name="P:ADEVPayroll.HourlyEmployee.Name">
+            <summary>
+            Gets the HourlyEmployee's name.
+            </summary>
+        </member>
+        <member name="P:ADEVPayroll.HourlyEmployee.HoursWorked">
+            <summary>
+            Gets and sets the number of hours the HourlyEmployee worked.
+            </summary>
+            <exception cref="T:System.ArgumentOutOfRangeException">When the value is less than zero.</exception>
+        </member>
+        <member name="P:ADEVPayroll.HourlyEmployee.RateOfPay">
+            <summary>
+            Gets and sets the HourlyEmployee's rate of pay.
+            </summary>
+            <exception cref="T:System.ArgumentOutOfRangeException">When the value is less than zero.</exception>
+        </member>
+    </members>
+</doc>

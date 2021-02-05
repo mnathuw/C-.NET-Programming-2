@@ -1,0 +1,6 @@
+C:\Users\foure\OneDrive\Desktop\BIT term 2\Programming 2\Programming 2 new\Unit 2\RRCAGLibraryThuMai\RRCAGLibrary\bin\Debug\RRCAGLibrary.dll
+C:\Users\foure\OneDrive\Desktop\BIT term 2\Programming 2\Programming 2 new\Unit 2\RRCAGLibraryThuMai\RRCAGLibrary\bin\Debug\RRCAGLibrary.pdb
+C:\Users\foure\OneDrive\Desktop\BIT term 2\Programming 2\Programming 2 new\Unit 2\RRCAGLibraryThuMai\RRCAGLibrary\obj\Debug\RRCAGLibrary.csprojAssemblyReference.cache
+C:\Users\foure\OneDrive\Desktop\BIT term 2\Programming 2\Programming 2 new\Unit 2\RRCAGLibraryThuMai\RRCAGLibrary\obj\Debug\RRCAGLibrary.csproj.CoreCompileInputs.cache
+C:\Users\foure\OneDrive\Desktop\BIT term 2\Programming 2\Programming 2 new\Unit 2\RRCAGLibraryThuMai\RRCAGLibrary\obj\Debug\RRCAGLibrary.dll
+C:\Users\foure\OneDrive\Desktop\BIT term 2\Programming 2\Programming 2 new\Unit 2\RRCAGLibraryThuMai\RRCAGLibrary\obj\Debug\RRCAGLibrary.pdb

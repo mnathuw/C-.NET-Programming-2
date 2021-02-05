@@ -1,0 +1,7 @@
+C:\Users\foure\OneDrive\Desktop\BIT term 2\Programming 2\Programming 2 new\Unit 4\Assignment4ThuMai\EventTest\bin\Debug\EventTest.exe.config
+C:\Users\foure\OneDrive\Desktop\BIT term 2\Programming 2\Programming 2 new\Unit 4\Assignment4ThuMai\EventTest\bin\Debug\EventTest.exe
+C:\Users\foure\OneDrive\Desktop\BIT term 2\Programming 2\Programming 2 new\Unit 4\Assignment4ThuMai\EventTest\bin\Debug\EventTest.pdb
+C:\Users\foure\OneDrive\Desktop\BIT term 2\Programming 2\Programming 2 new\Unit 4\Assignment4ThuMai\EventTest\obj\Debug\EventTest.csprojAssemblyReference.cache
+C:\Users\foure\OneDrive\Desktop\BIT term 2\Programming 2\Programming 2 new\Unit 4\Assignment4ThuMai\EventTest\obj\Debug\EventTest.csproj.CoreCompileInputs.cache
+C:\Users\foure\OneDrive\Desktop\BIT term 2\Programming 2\Programming 2 new\Unit 4\Assignment4ThuMai\EventTest\obj\Debug\EventTest.exe
+C:\Users\foure\OneDrive\Desktop\BIT term 2\Programming 2\Programming 2 new\Unit 4\Assignment4ThuMai\EventTest\obj\Debug\EventTest.pdb
